@@ -1,0 +1,6 @@
+:root {
+    /* select color */
+    --skin-color-900: rgb(230, 152, 8);
+    --skin-color-100: rgba(255, 166, 0, 0.671);
+    --skin-color-50: orange;
+}
